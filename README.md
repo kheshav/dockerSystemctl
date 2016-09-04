@@ -30,4 +30,5 @@ eg:
 `sudo ./connectDocker.sh --name redis`
 
 redis id is: c66fc59a6f90 
+
 [root@c66fc59a6f90 /]# exit
